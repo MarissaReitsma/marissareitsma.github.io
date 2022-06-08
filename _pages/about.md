@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marissa Reitsma's Website"
+title: "Summary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
