@@ -15,3 +15,11 @@ I am a PhD student in the [Department of Health Policy](https://healthpolicy.fsi
 
 ### Current Research
 
+1. COVID-19
+
+2. Non-Communicable Disease Risk Factors
+
+3. Pharmaceutical Drug Pricing
+
+4. Fairness
+
