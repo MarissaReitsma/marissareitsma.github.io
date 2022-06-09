@@ -4,7 +4,7 @@ main:
     url: /
  
   - title: "About"
-    url: /portfolio/
+    url: /about/
   
   - title: "CV"
     url: /files/Reitsma_CV_June8_2022.pdf
