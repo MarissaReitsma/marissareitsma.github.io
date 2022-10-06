@@ -3,8 +3,11 @@ main:
   - title: "Home"
     url: /
  
- # - title: "About"
+# - title: "About"
  #   url: /about/
+ 
+  - title: "Research"
+    url: /publications/
   
   - title: "CV"
     url: /files/Reitsma_CV_June8_2022.pdf
